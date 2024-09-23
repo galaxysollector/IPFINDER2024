@@ -10,4 +10,30 @@
 진행 중인 과정을 강제로 종료하여 발생하는 모든 오류는 **사용자 본인의 책임입니다!**
 - 프로그램을 실행하는 도중 PC가 절전 모드로 전환되지 않도록 주의하세요. 실행 도중 절전 모드로 전환되면 작업이 완료되지 않고 오류가 발생할 수 있습니다.
 
-## 개발 중
+## 다운로드
+
+[이곳](https://github.com/galaxysollector/IPFINDER2024/releases/latest)으로 이동하여 최신 버전을 다운로드한 후 프로그램의 지시를 따르세요.
+**특별한 경우가 아니면 구버전을 사용하지 마세요!**
+
+본인을 언팔로우한 사용자들을 확인하려면 [IUFINDER2024](https://github.com/galaxysollector/IUFINDER2024)를 이용해보세요.  
+본인의 스토리를 누가 언제 읽었는지 확인하려면 [ISFINDER2024](https://github.com/galaxysollector/ISFINDER2024)를 이용해보세요.
+
+## 스크린샷
+
+### 자동 업데이트
+
+프로그램을 실행하면 아래와 같이 자동으로 업데이트를 진행합니다.
+
+<img src="https://raw.githubusercontent.com/galaxysollector/IUFINDER2024/main/screenshot1.png">
+
+### 시작 화면
+
+자동 업데이트가 완료되면 아래와 같이 시작 화면이 표시됩니다.
+
+<img src="https://raw.githubusercontent.com/galaxysollector/IPFINDER2024/main/screenshot2.png">
+
+### 옵션 선택
+
+아래와 같이 옵션을 선택한 후 사용자 이름과 비밀번호를 입력하면 이후의 과정이 모두 자동으로 진행됩니다.
+
+<img src="https://raw.githubusercontent.com/galaxysollector/IPFINDER2024/main/screenshot3.png">
